@@ -8,9 +8,9 @@
   <p align="center">
    A (very) simplified natural selection simulator using python
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/MarcosSaade/PrimordialSoup/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/MarcosSaade/PrimordialSoup">Request Feature</a>
   </p>
 </div>
 
