@@ -56,7 +56,7 @@ The image below shows the gene pool and posible mutations
 ## Organisms
 
 <hr/>
-### Single Cell
+## Single Cell
 <br/>
 <img src='images/single_cell.png'>
 * The simplest organism.
@@ -66,7 +66,7 @@ The image below shows the gene pool and posible mutations
 * Speed: 1
 <hr/>
 
-## Long
+### Long
 <br/>
 <img src='images/long.png'>
 * Comes from Single Cell
