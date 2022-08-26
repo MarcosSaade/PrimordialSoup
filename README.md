@@ -53,7 +53,7 @@ The image below shows the gene pool and posible mutations
 <br/>
 <img src='images/tree.png'>
 
-### Organisms
+## Organisms
 
 <hr/>
 ### Single Cell
