@@ -57,14 +57,52 @@ The image below shows the gene pool and posible mutations
 
 ### Organisms
 
-Replicator
+Single Cell
 <br/>
 <img src='images/single_cell.png'>
 * The simplest organism.
 * Can form on its own.
 * Mutates into: Big or Long (50/50)
 * Food for reproduction: 12
-* Weight: 1
+* Speed: 1
+
+Long
+<br/>
+<img src='images/long.png'>
+* Comes from Single Cell
+* Mutates into: Carnivore
+* Food for reproduction: 16
+* Speed: 2
+
+Carnivore
+<br/>
+<img src='images/carnivore.png'>
+* Comes from Long
+* Mutates into: Carnivore
+* Food for reproduction: 20
+* Doesn't eat normal food, eats other organisms
+* Can only eat after digesting previous food
+* Can die of hunger
+* Some chance of having lethal mutation
+* Speed: 2
+
+Big
+<br/>
+<img src='images/big.png'>
+* Comes from Single Cell
+* Mutates into: Sponge
+* Food for reproduction: 21
+* Speed: 0.5
+
+
+Sponge
+<br/>
+<img src='images/sponge.png'>
+* Comes from Big
+* Food for reproduction: 36
+* Can't move, remains static
+* Can't be eaten by carnivores
+* Some chance of having lethal mutation
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
