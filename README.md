@@ -24,7 +24,10 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#installation">Installation</a>
+    </li>
+    <li>
+      <a href="#gene-pool">Gene Pool</a>
     </li>
   </ol>
 </details>
@@ -40,16 +43,11 @@ Simulates the non random survival of simple organisms over time.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Installation
+## Installation
 
 This is not yet production ready. However, you can test it by executing the code of main.py on an environment with pygame installed.
 
-### Gene Pool
+## Gene Pool
 
 The image below shows the gene pool and posible mutations
 <br/>
@@ -58,7 +56,7 @@ The image below shows the gene pool and posible mutations
 ### Organisms
 
 <hr/>
-#### Single Cell
+### Single Cell
 <br/>
 <img src='images/single_cell.png'>
 * The simplest organism.
