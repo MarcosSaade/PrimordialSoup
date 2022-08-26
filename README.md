@@ -65,7 +65,7 @@ The image below shows the gene pool and posible mutations
 * Mutates into: Big or Long (50/50)
 * Food for reproduction: 12
 * Speed: 1
-<br/>
+<hr/>
 
 #### Long
 <br/>
@@ -74,6 +74,7 @@ The image below shows the gene pool and posible mutations
 * Mutates into: Carnivore
 * Food for reproduction: 16
 * Speed: 2
+<hr/>
 
 #### Carnivore
 <br/>
@@ -86,6 +87,7 @@ The image below shows the gene pool and posible mutations
 * Can die of hunger
 * Some chance of having lethal mutation
 * Speed: 2
+<hr/>
 
 #### Big
 <br/>
@@ -94,7 +96,7 @@ The image below shows the gene pool and posible mutations
 * Mutates into: Sponge
 * Food for reproduction: 21
 * Speed: 0.5
-
+<hr/>
 
 #### Sponge
 <br/>
@@ -104,6 +106,7 @@ The image below shows the gene pool and posible mutations
 * Can't move, remains static
 * Can't be eaten by carnivores
 * Some chance of having lethal mutation
+<hr/>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
