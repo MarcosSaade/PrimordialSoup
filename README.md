@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Screenshot][screenshot]]
+[screenshot]
 
 Simulates the non random survival of simple organisms over time.
 
@@ -53,7 +53,7 @@ This is not yet production ready. However, you can test it by executing the code
 
 The image below shows the gene pool and posible mutations
 <br/>
-[![Tree of mutations][tree]]
+[tree]
 
 ### Organisms
 
