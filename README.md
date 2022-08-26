@@ -56,7 +56,9 @@ The image below shows the gene pool and posible mutations
 ## Organisms
 
 <hr/>
-## Single Cell
+<br/>
+
+### Single Cell
 <br/>
 <img src='images/single_cell.png'>
 * The simplest organism.
@@ -75,7 +77,7 @@ The image below shows the gene pool and posible mutations
 * Speed: 2
 <hr/>
 
-#### Carnivore
+### Carnivore
 <br/>
 <img src='images/carnivore.png'>
 * Comes from Long
@@ -88,7 +90,7 @@ The image below shows the gene pool and posible mutations
 * Speed: 2
 <hr/>
 
-#### Big
+### Big
 <br/>
 <img src='images/big.png'>
 * Comes from Single Cell
@@ -97,7 +99,7 @@ The image below shows the gene pool and posible mutations
 * Speed: 0.5
 <hr/>
 
-#### Sponge
+### Sponge
 <br/>
 <img src='images/sponge.png'>
 * Comes from Big
