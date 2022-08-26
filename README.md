@@ -56,10 +56,8 @@ The image below shows the gene pool and posible mutations
 ## Organisms
 
 <hr/>
-<br/>
 
 ### Single Cell
-<br/>
 <img src='images/single_cell.png'>
 * The simplest organism.
 * Can form on its own.
@@ -69,7 +67,6 @@ The image below shows the gene pool and posible mutations
 <hr/>
 
 ### Long
-<br/>
 <img src='images/long.png'>
 * Comes from Single Cell
 * Mutates into: Carnivore
