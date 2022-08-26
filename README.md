@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[screenshot]
+<img src='images/screenshot.png'>
 
 Simulates the non random survival of simple organisms over time.
 
@@ -53,13 +53,13 @@ This is not yet production ready. However, you can test it by executing the code
 
 The image below shows the gene pool and posible mutations
 <br/>
-[tree]
+<img src='images/tree.png'>
 
 ### Organisms
 
 Replicator
 <br/>
-[![Replicator][replicator]
+<img src='images/single_cell.png'>
 * The simplest organism.
 * Can form on its own.
 * Mutates into: Big or Long (50/50)
@@ -68,9 +68,3 @@ Replicator
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[screenshot]: images/screenshot.png
-[tree]: images/tree.png
-[replicator]: images/replicator.png
