@@ -59,11 +59,11 @@ The image below shows the gene pool and posible mutations
 
 ### Single Cell
 <img src='images/single_cell.png'>
-- The simplest organism.
-- Can form on its own.
-- Mutates into: Big or Long (50/50)
-- Food for reproduction: 12
-- Speed: 1
+> The simplest organism.
+> Can form on its own.
+> Mutates into: Big or Long (50/50)
+> Food for reproduction: 12
+> Speed: 1
 <hr/>
 
 ### Long
