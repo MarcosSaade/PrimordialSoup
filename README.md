@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="images/logo.png" alt="Logo" width="80" height="80">
+<img src="images/logo.png" alt="Logo">
 
   <h3 align="center">PrimordialSoup</h3>
 
