@@ -75,7 +75,6 @@ The image below shows the gene pool and posible mutations
 <hr/>
 
 ### Carnivore
-<br/>
 <img src='images/carnivore.png'>
 * Comes from Long
 * Mutates into: Carnivore
@@ -88,7 +87,6 @@ The image below shows the gene pool and posible mutations
 <hr/>
 
 ### Big
-<br/>
 <img src='images/big.png'>
 * Comes from Single Cell
 * Mutates into: Sponge
@@ -97,7 +95,6 @@ The image below shows the gene pool and posible mutations
 <hr/>
 
 ### Sponge
-<br/>
 <img src='images/sponge.png'>
 * Comes from Big
 * Food for reproduction: 36
