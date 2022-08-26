@@ -59,6 +59,7 @@ The image below shows the gene pool and posible mutations
 
 ### Single Cell
 <img src='images/single_cell.png'>
+<br/>
 * The simplest organism.
 * Can form on its own.
 * Mutates into: Big or Long (50/50)
