@@ -57,7 +57,7 @@ The image below shows the gene pool and posible mutations
 
 ### Organisms
 
-Single Cell
+#### Single Cell
 <br/>
 <img src='images/single_cell.png'>
 * The simplest organism.
@@ -65,8 +65,9 @@ Single Cell
 * Mutates into: Big or Long (50/50)
 * Food for reproduction: 12
 * Speed: 1
+<br/>
 
-Long
+#### Long
 <br/>
 <img src='images/long.png'>
 * Comes from Single Cell
@@ -74,7 +75,7 @@ Long
 * Food for reproduction: 16
 * Speed: 2
 
-Carnivore
+#### Carnivore
 <br/>
 <img src='images/carnivore.png'>
 * Comes from Long
@@ -86,7 +87,7 @@ Carnivore
 * Some chance of having lethal mutation
 * Speed: 2
 
-Big
+#### Big
 <br/>
 <img src='images/big.png'>
 * Comes from Single Cell
@@ -95,7 +96,7 @@ Big
 * Speed: 0.5
 
 
-Sponge
+#### Sponge
 <br/>
 <img src='images/sponge.png'>
 * Comes from Big
