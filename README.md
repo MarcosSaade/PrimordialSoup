@@ -59,25 +59,28 @@ The image below shows the gene pool and posible mutations
 
 ### Single Cell
 <img src='images/single_cell.png'>
-"""
-> The simplest organism.
-> Can form on its own.
-> Mutates into: Big or Long (50/50)
-> Food for reproduction: 12
-> Speed: 1
-"""
+
+* The simplest organism.
+* Can form on its own.
+* Mutates into: Big or Long (50/50)
+* Food for reproduction: 12
+* Speed: 1
+
 <hr/>
 
 ### Long
 <img src='images/long.png'>
+
 * Comes from Single Cell
 * Mutates into: Carnivore
 * Food for reproduction: 16
 * Speed: 2
+
 <hr/>
 
 ### Carnivore
 <img src='images/carnivore.png'>
+
 * Comes from Long
 * Mutates into: Carnivore
 * Food for reproduction: 20
@@ -86,23 +89,28 @@ The image below shows the gene pool and posible mutations
 * Can die of hunger
 * Some chance of having lethal mutation
 * Speed: 2
+
 <hr/>
 
 ### Big
 <img src='images/big.png'>
+
 * Comes from Single Cell
 * Mutates into: Sponge
 * Food for reproduction: 21
 * Speed: 0.5
+
 <hr/>
 
 ### Sponge
 <img src='images/sponge.png'>
+
 * Comes from Big
 * Food for reproduction: 36
 * Can't move, remains static
 * Can't be eaten by carnivores
 * Some chance of having lethal mutation
+
 <hr/>
 
 
