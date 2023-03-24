@@ -82,7 +82,6 @@ The image below shows the gene pool and posible mutations
 <img src='images/carnivore.png'>
 
 * Comes from Long
-* Mutates into: Carnivore
 * Food for reproduction: 20
 * Doesn't eat normal food, eats other organisms
 * Can only eat after digesting previous food
