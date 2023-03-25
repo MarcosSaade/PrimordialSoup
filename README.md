@@ -6,7 +6,7 @@
   <h3 align="center">PrimordialSoup</h3>
 
   <p align="center">
-   A (very) simplified natural selection simulator using python
+   A  simplified natural selection simulator using python
     <br />
     <a href="https://github.com/MarcosSaade/PrimordialSoup/issues">Report Bug</a>
     ·
