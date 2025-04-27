@@ -41,7 +41,7 @@ It was a ton of fun and gave me a solid foundation in simulation design and visu
 
 ## Installation
 
-This project is a prototype and not production-ready. However, you can easily run it locally:
+This project is a prototype, but you can run it locally:
 
 ### Prerequisites
 
@@ -148,5 +148,3 @@ If you have any questions or feedback, feel free to reach out:
 📧 marcossr2626@gmail.com
 
 ---
-
-*Image credits belong to their respective authors.*
